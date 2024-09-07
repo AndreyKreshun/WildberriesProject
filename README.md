@@ -1,6 +1,4 @@
-# main-template
-
-
+# Wildberries Project
 
 ## Getting started
 
