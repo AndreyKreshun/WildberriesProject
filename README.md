@@ -36,6 +36,6 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ## Архитектура
 Используется Clean Architecture
-1. Presentation Layer: ViewModel
-2. Data Layer: репозитории, источники данных (API)
-3. Domain Layer: бизнес-логика, использование UseCases
+- Presentation Layer: ViewModel
+- Data Layer: репозитории, источники данных (API)
+- Domain Layer: бизнес-логика, использование UseCases
