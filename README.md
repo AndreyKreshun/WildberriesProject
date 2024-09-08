@@ -19,7 +19,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 - Coroutines: для многопоточности
 - Koin: для внедрения зависимостей
 - JUnit: для тестирования
--Compose: для разметки
+- Compose: для разметки
 
 ## Функции
 - Регистрация и авторизация пользователя
